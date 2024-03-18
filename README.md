@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi !👋
 <div align="center">
 <img src="./assets/github-header-image.png" align="center" height="" width="" />
 </div>
@@ -7,8 +7,8 @@
 <br/>  
 
 
-## My Skill Set  
-<p align="center">
+## Mes competences 
+<p align="center">8
   <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,cs,css,django,docker,dotnet,eclipse,flask,git,github,gitlab,graphql,html,java,js,jquery,kubernetes,linux,md,mysql,nginx,nodejs,php,postgres,powershell,py,regex,sass,ts,vim,visualstudio,vscode,wordpress,cplusplus,oracle,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python" />
 </p>
 
@@ -20,17 +20,12 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1174849064&cover_image=false&theme=default" /></div>  
-
-## Connect with me  
+## Contactez moi
 <div align="center">
 <a href="https://github.com/jeanJonathan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/c0dexus" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yohann-martin" target="_blank">
+<a href="https://www.linkedin.com/in/jean-jonathan-koffi-b54b1a216/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
