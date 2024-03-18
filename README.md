@@ -9,15 +9,14 @@
 
 ## My Skill Set  
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,cs,css,django,docker,dotnet,eclipse,flask,git,github,gitlab,graphql,html,java,js,jquery,kubernetes,linux,md,mysql,nginx,nodejs,php,postgres,powershell,py,regex,sass,ts,vim,visualstudio,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,cs,css,django,docker,dotnet,eclipse,flask,git,github,gitlab,graphql,html,java,js,jquery,kubernetes,linux,md,mysql,nginx,nodejs,php,postgres,powershell,py,regex,sass,ts,vim,visualstudio,vscode,wordpress,cplusplus,oracle,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python" />
 </p>
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Astropilot&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeanJonathan&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astropilot&hide_border=true&layout=compact&theme=radical&hide=html,php&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanJonathan&hide_border=true&layout=compact&theme=radical&hide=html,php&count_private=true" align="center" /></div>  
 
 <br/>  
 
@@ -25,7 +24,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Astropilot" target="_blank">
+<a href="https://github.com/jeanJonathan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/c0dexus" target="_blank">
@@ -42,7 +41,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Astropilot&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=jeanJonathan&&style=flat-square" align="center" />
 </div>  
 
 <br />
