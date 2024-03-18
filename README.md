@@ -1,6 +1,6 @@
 ### Hi !👋
 <div align="center">
-<img src="./assets/github-header-image.png" align="center" height="" width="" />
+
 </div>
   
 
