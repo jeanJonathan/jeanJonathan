@@ -8,7 +8,7 @@
 
 
 ## Mes competences 
-<p align="center">8
+<p align="center">
   <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,cs,css,django,docker,dotnet,eclipse,flask,git,github,gitlab,graphql,html,java,js,jquery,kubernetes,linux,md,mysql,nginx,nodejs,php,postgres,powershell,py,regex,sass,ts,vim,visualstudio,vscode,wordpress,cplusplus,oracle,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python" />
 </p>
 
