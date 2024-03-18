@@ -7,9 +7,9 @@
 <br/>  
 
 
-## Mes competences 
+## Competences 
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,cs,css,django,docker,dotnet,eclipse,flask,git,github,gitlab,graphql,html,java,js,jquery,kubernetes,linux,md,mysql,nginx,nodejs,php,postgres,powershell,py,regex,sass,ts,vim,visualstudio,vscode,wordpress,cplusplus,oracle,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python" />
+  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,bash,css,django,docker,eclipse,git,github,graphql,html,java,js,jquery,kubernetes,linux,mysql,nginx,nodejs,php,postgres,powershell,py,ts,vscode,wordpress,cpp,firebase,html,idea,jenkins,npm,phpstorm,qt,oracle,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python,discord" />
 </p>
 
 <br/>  
@@ -20,7 +20,7 @@
 
 <br/>  
 
-## Contactez moi
+## Contacts
 <div align="center">
 <a href="https://github.com/jeanJonathan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
