@@ -8,17 +8,33 @@
 
 
 ## Compétences 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,bash,css,django,docker,eclipse,git,github,graphql,html,java,js,jquery,kubernetes,linux,mysql,nginx,nodejs,php,postgres,powershell,py,ts,vscode,wordpress,cpp,firebase,idea,jenkins,npm,phpstorm,qt,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python,discord" />
+  <!-- Icônes disponibles sur skillicons -->
+  <img src="https://skillicons.dev/icons?perline=8&i=py,ts,nodejs,firebase,git,github,docker,vscode,angular,react,html,css,bootstrap,mysql,postgres,cpp,java,r,flutter,dart,linux" />
+</p>
+
+<p align="center">
+  <!-- Icônes ajoutés manuellement -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="45" height="45" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" width="45" height="45" alt="SAP"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sap-hana.svg" width="45" height="45" alt="SAP HANA"/>
+  <img src="https://zeppelin.apache.org/images/zeppelin_small.png" width="45" height="45" alt="Apache Zeppelin"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint-2019.svg" width="45" height="45" alt="SharePoint"/>
 </p>
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeanJonathan&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanJonathan&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+</div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanJonathan&hide_border=true&layout=compact&theme=radical&hide=html,php&count_private=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanJonathan&hide_border=true&layout=compact&theme=radical&hide=html,php&count_private=true" align="center" />
+</div>  
 
 <br/>  
+
 
 ## Contacts
 <div align="center">
