@@ -9,7 +9,16 @@
 
 ## Compétences 
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,bash,css,django,docker,eclipse,git,github,graphql,html,java,js,jquery,kubernetes,linux,mysql,nginx,nodejs,php,postgres,powershell,py,ts,vscode,wordpress,cpp,firebase,idea,jenkins,npm,phpstorm,qt,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python,discord,sap,powerbi" />
+  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,bash,css,django,docker,eclipse,git,github,graphql,html,java,js,jquery,kubernetes,linux,mysql,nginx,nodejs,php,postgres,powershell,py,ts,vscode,wordpress,cpp,firebase,idea,jenkins,npm,phpstorm,qt,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python,discord" />
+</p>
+
+<p align="center">
+  <!-- Icônes ajoutés manuellement -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="45" height="45" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" width="45" height="45" alt="SAP"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sap-hana.svg" width="45" height="45" alt="SAP HANA"/>
+  <img src="https://zeppelin.apache.org/images/zeppelin_small.png" width="45" height="45" alt="Apache Zeppelin"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint-2019.svg" width="45" height="45" alt="SharePoint"/>
 </p>
 
 <br/>  
