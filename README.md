@@ -18,7 +18,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" width="45" height="45" alt="SAP"/>
   <img src="https://cdn.worldvectorlogo.com/logos/sap-hana.svg" width="45" height="45" alt="SAP HANA"/>
   <img src="https://zeppelin.apache.org/images/zeppelin_small.png" width="45" height="45" alt="Apache Zeppelin"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint-2019.svg" width="45" height="45" alt="SharePoint"/>
+  <img src="[https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint-2019.svg](https://fr.wikipedia.org/wiki/Microsoft_SharePoint#/media/Fichier:Microsoft_Office_SharePoint_(2019%E2%80%93present).svg)" width="45" height="45" alt="SharePoint"/>
 </p>
 
 <br/>  
