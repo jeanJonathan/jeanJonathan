@@ -9,7 +9,7 @@
 
 ## Compétences 
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,bash,css,django,docker,eclipse,git,github,graphql,html,java,js,jquery,kubernetes,linux,mysql,nginx,nodejs,php,postgres,powershell,py,ts,vscode,wordpress,cpp,firebase,idea,jenkins,npm,phpstorm,qt,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python,discord" />
+  <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,bash,css,django,docker,eclipse,git,github,graphql,html,java,js,jquery,kubernetes,linux,mysql,nginx,nodejs,php,postgres,powershell,py,ts,vscode,wordpress,cpp,firebase,idea,jenkins,npm,phpstorm,qt,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python,discord,sap,powerbi" />
 </p>
 
 <br/>  
