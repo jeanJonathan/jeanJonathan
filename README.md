@@ -12,11 +12,6 @@
   <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,bash,css,django,docker,eclipse,git,github,graphql,html,java,js,jquery,kubernetes,linux,mysql,nginx,nodejs,php,postgres,powershell,py,ts,vscode,wordpress,cpp,firebase,idea,jenkins,npm,phpstorm,qt,mongodb,qt,anaconda,kubernetes,spring,laravel,flutter,dart,r,python,discord" />
 </p>
 
-<p align="center">
-  <!-- Icônes ajoutés manuellement -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="45" height="45" alt="Power BI"/>(https://fr.wikipedia.org/wiki/Microsoft_SharePoint#/media/Fichier:Microsoft_Office_SharePoint_(2019%E2%80%93present).svg)" width="45" height="45" alt="SharePoint"/>
-</p>
-
 <br/>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeanJonathan&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
