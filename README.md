@@ -13,13 +13,6 @@
 </p>
 
 <br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeanJonathan&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanJonathan&hide_border=true&layout=compact&theme=radical&hide=html,php&count_private=true" align="center" /></div>  
-
-<br/> 
-
 ## Contacts
 <div align="center">
 <a href="https://github.com/jeanJonathan" target="_blank">
