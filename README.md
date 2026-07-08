@@ -1,6 +1,4 @@
 ### Hi !👋
-
-https://we.tl/t-H2vQ3ZOL606quuvi
 <div align="center">
 
 </div>
